@@ -1,20 +1,20 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com um grupo de artistas renomados apresentando suas obras pelas ruas. Quando chega em casa, com a criatividade é estimulada, você decide entre criar uma obra ou pesquisar sobre o assunto, por qual você começa?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Criar uma obra, a prática nos da aprendizado para alcançar o objetivo direto.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Começou pela prática, porém não conseguiu o resultado desejado, procurou tutoriais para apontar os erros e melhorar nas próximas tentativas.",
+                    "Começou pela prática, mas o processo não saiu como o esperado, decidiu fazer pesquisas para melhorar suas habilidades no desenho."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Pesquisar melhor sobre o assunto, o conhecimento teórico nos da uma melhor noção sobre com o que estamos lidando.",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Pesquisou sobre diversos tópicos relacionados a arte e desenho, mas não viu avanço sem praticar.",
+                    "Pesquisou por horas sobre o assunto mas não viu resultado sem praticar."
                 ],
                 proxima: 2,
             },
