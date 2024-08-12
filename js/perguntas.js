@@ -21,46 +21,46 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Após ver que sua jornada até a proficiência vai ser longa, você decide criar um cronograma de estudos, por onde você começa?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Proatividade, você decide que vai começar o cronograma agora mesmo.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Graças a proatividade o projeto é organizado, e isso beneficia você a não se perder em situações futuras.",
+                    "Decidindo iniciar agora mesmo o cronograma, o projeto é organizado por você, beneficiando em situações futuras.",
+                    "Ao escolher proatividade, a organização é formulada, podendo beneficiar em situações futuras sem deixar o trabalho para depois."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Procrastinação, você decide que é melhor descansar primeiro e começar algum outro dia.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Graças a escolha de procrastinação, você descansa e incia o trabalho no dia seguinte, correndo os riscos de acontecer algum imprevisto e você precisar adiar de novo o cronograma.",
+                    "Ao escolher procrastinação, o cronograma é deixado para outro dia, isso se extende para 1 semana e logo você se vê em uma situação de peso na consciência para terminar logo o trabalho.",
+                    "Na escolha da procrastinação o cronograma atrasa e você se depara em uma situação de angústia para terminar o trabalho mais rápido possível, talvez a melhor escolha fosse a proatividade no final."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "A primeira escolha para iniciar o projeto foi Pontilhismo, quais são as características sobre a técnica do Pontilhismo?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "O Pontilhismo deriva de pontos que são usados para criar as obras, geralmente com pontos e círculos de diversos tamanhos. Seus principais elementos vem de percepções óticas de cores vibrantes.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica, ",
+                    "",
+                    ""
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "O Pontilhismo são obras feitas não de pinceladas, mas de pequenos pontos. Seus principais elementos vem de investigações de luz e percepções óticas. ",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "",
+                    "",
+                    ""
                 ],
                 proxima: 4,
             },
