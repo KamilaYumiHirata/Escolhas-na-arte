@@ -49,123 +49,123 @@ export const perguntas = [
             {
                 texto: "O Pontilhismo deriva de pontos que são usados para criar as obras, geralmente com pontos e círculos de diversos tamanhos. Seus principais elementos vem de percepções óticas de cores vibrantes.",
                 afirmacao: [
-                    "O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica, ",
-                    "",
-                    ""
+                    "O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (errou questão).",
+                    "O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (errou questão).",
+                    "O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (errou questão)."
                 ],
                 proxima: 3,
             },
             {
                 texto: "O Pontilhismo são obras feitas não de pinceladas, mas de pequenos pontos. Seus principais elementos vem de investigações de luz e percepções óticas. ",
                 afirmacao: [
-                    "",
-                    "",
-                    ""
+                    "Sim! O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (acertou questão).",
+                    "Sim! O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (acertou questão).",
+                    "Sim! O Pontilhismo é uma técnica de se utilizar pontos em obras como forma de formar uma figura de percepcão ótica e investigações de luz (acertou questão)."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "São 8 tipos de arte?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Música, dança, pintura, escultura, teatro, literatura, cinema e fotografia.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "8 tipos de arte podem ser: Música, dança, pintura, escultura, teatro, literatura, cinema e fotografia (acertou questão).",
+                    "Sim, podem ser 8 tipos de arte: Música, dança, pintura, escultura, teatro, literatura, cinema e fotografia (acertou questão)."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Música, dança, pintura, escultura, teatro, literatura, liturgia e cinema.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Podem ser 8 tipos de arte: Música, dança, pintura, escultura, teatro, literatura, cinema e fotografia (errou questão).",
+                    "Liturgia não faz parte de 8 tipos de arte, sendo elas: Música, dança, pintura, escultura, teatro, literatura, cinema e fotografia (errou questão)."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "A arte é algo influente no mundo? Como ela afeta no nosso dia a dia?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Ela não afeta muito no mundo, e sim a tecnologia nos dias atuais.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "A arte é algo importante no mundo, ela se encontra em toda parte da nossa sociedade e em diversos setores, seres humanos usam a arte para transmitir o que sentem e influenciarem outros para algo (errou questão).",
+                    "A arte é algo importante no mundo, ela se encontra em toda parte da nossa sociedade e em diversos setores, seres humanos usam a arte para transmitir o que sentem e influenciarem outros para algo (errou questão)."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "A arte é algo muito importante na nossa sociedade, ela se encontra em todos os lugares e é muito utilizada para transmitir sentimentos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Sabemos que a arte é algo extremamente importante na nossa sociedade, ela abrange aspectos físicos e pscológios e está presente no nosso dia a dia, seres humanos utilizam a arte para transmitir geralmente o que sentem ou influenciarem outros (acertou questão).",
+                    "Sabemos que a arte é algo extremamente importante na nossa sociedade, ela abrange aspectos físicos e pscológios e está presente no nosso dia a dia, seres humanos utilizam a arte para transmitir geralmente o que sentem ou influenciarem outros (acertou questão)."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após muito estudo e descoberta sobre os diversos tipos de arte, qual você decide seguir?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Áreas sociais-visuais da arte como: dança, teatro, cinema, entre outros.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Após muitos pensar,você decide seguir a área social-visual da arte, nela você aprende como lidar mais com as pessoas e sentimentos humanos em geral.",
+                    "Após muitos pensar,você decide seguir a área social-visual da arte, nela você aprende como lidar mais com as pessoas e sentimentos humanos em geral."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Àreas artísticas mais reservadas como: literatura, música, escultura, entre outros.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Após muito pensar, você decide seguir uma área mais reservada no rumo das artes, nela você se conhece mais profundamente e aprende como lidar com os sentimentos pessoais.",
+                    "Após muito pensar, você decide seguir uma área mais reservada no rumo das artes, nela você se conhece mais profundamente e aprende como lidar com os sentimentos pessoais."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "",
+                    ""
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "",
+                    ""
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como pergunta final, o que você pode fazer futuramente com essas habilidades adquiridas sobre artes?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Continuar estudando, o conhecimento nunca acaba, ele se aprimora.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "Você decide continuar estudando e se dedicando cada vez mais, mesmo já tendo adquirido as habilidades necessárias sobre artes.",
+                    "Você decide continuar estudando e se dedicando cada vez mais, mesmo já tendo adquirido as habilidades necessárias sobre artes."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Procurar uma carreira no rumo e ganhar dinheiro com isso.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Seguir um rumo na área pode levar a novos caminhos e aprendizados, com a experiência seu trabalho pode ser conhecido, consequentemente gerando uma boa capital.",
+                    "Seguir um rumo na área pode levar a novos caminhos e aprendizados, com a experiência seu trabalho pode ser conhecido, consequentemente gerando uma boa capital.",
+                    "Seguir um rumo na área pode levar a novos caminhos e aprendizados, com a experiência seu trabalho pode ser conhecido, consequentemente gerando uma boa capital."
                 ],
             },
         ]
