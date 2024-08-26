@@ -91,7 +91,7 @@ export const perguntas = [
         enunciado: "A arte é algo influente no mundo? Como ela afeta no nosso dia a dia?",
         alternativas: [
             {
-                texto: "Ela não afeta muito no mundo, e sim a tecnologia nos dias atuais.",
+                texto: "Ela não afVocê decide fazer obrs leves e sentimentais, nelas você transmite suas emoções de forma exagerada assim como sentimentos são, os temas variam entre algo suave e emocionante, atingindo e manipulando as emoções de quem vê as diferentes obras.eta muito no mundo, e sim a tecnologia nos dias atuais.",
                 afirmacao: [
                     "A arte é algo importante no mundo, ela se encontra em toda parte da nossa sociedade e em diversos setores, seres humanos usam a arte para transmitir o que sentem e influenciarem outros para algo (errou questão).",
                     "A arte é algo importante no mundo, ela se encontra em toda parte da nossa sociedade e em diversos setores, seres humanos usam a arte para transmitir o que sentem e influenciarem outros para algo (errou questão)."
@@ -130,21 +130,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Pensando em transmitir mais sobre sentimentos na arte, você decide que suas artes serão:",
         alternativas: [
             {
-                texto: "",
+                texto: "Focadas em estilos sombrios e profundos, contendo elementos como críticas sociais com temas fortes e complexos.",
                 afirmacao: [
-                    "",
-                    ""
+                    "Você decide fazer obras mais sombrias e profundas, sua arte aborda temas de críticas sociais e atinge fortemente seus expectadores.",
+                    "Você decide fazer obras mais sombrias e profundas, sua arte aborda temas de críticas sociais e atinge fortemente seus expectadores."
                 ],
                 proxima: 7,
             },
             {
-                texto: "",
+                texto: "Focadas em estilos leves e claros, bem animados e coloridos, contendo elementos como sentimentos tranquilos e exagerados com temas leves e emocionantes.",
                 afirmacao: [
-                    "",
-                    ""
+                    "Você decide fazer obrs leves e sentimentais, nelas você transmite suas emoções de forma exagerada assim como sentimentos são, os temas variam entre algo suave e emocionante, atingindo e manipulando as emoções de quem vê as diferentes obras.",
+                    "Você decide fazer obrs leves e sentimentais, nelas você transmite suas emoções de forma exagerada assim como sentimentos são, os temas variam entre algo suave e emocionante, atingindo e manipulando as emoções de quem vê as diferentes obras."
                 ],
                 proxima: 7,
             },
